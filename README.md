@@ -1,2 +1,5 @@
 # GameCalculo
-Game em que é gerado um calculo aleatório que o usuário responde o valor e acumula pontos.
+Game que gera cálculos para os usúarios responderem e a cada resposta correta é acumulado pontos.
+
+Desenvolvi esse projeto junto ao curso de Python da Geek Unversity para praticar o conhecimento adquirido e adicionei algumas alterações.
+A ideia do Game é que ao iniciar o usúario possa escolha o nível de dificuldade, com nível "Facil" valendo 1 ponto por acerto, nível "Medio" valendo 2 pontos por acerto e o nível "Dificil" valendo 3 pontos por acerto. A partir disso são gerados cálculos aleatórios de soma, subtração e multiplicação com base no nível de dificuldade escolhido pelo usúario, em seguida ele pode inserir sua resposta, caso esteja correta é retornado uma mensagem avisando que está correto e quantos pontos você tem após a rodada e caso esteja incorreto é retornado uma mensagem avisando que esta errado e quantos pontos ficou após a rodada, e para finalizar a interação é perguntado se o usúario quer continuar jogando ou não, e caso opte por parar é retornado com quantos pontos ele finalizou e encerrado o jogo.
